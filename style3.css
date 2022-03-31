@@ -1,0 +1,18 @@
+table, td {
+            border: 1px solid blue;
+        }
+        table {
+            border-collapse: collapse;
+        }
+td {
+            padding: 10px;
+        }
+#form {
+            float: right;
+            margin-right: 100px;
+}
+#formtest {
+            float: right;
+            margin-right: 200px;
+			margin-top: -340px
+}					

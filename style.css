@@ -1,0 +1,20 @@
+.myClass {
+            font-style: italic;
+			color: red;
+        }
+#firstParagraph {
+            background-color: #000080;
+        }	
+#glass {
+            text-decoration: underline;
+			font-style:oblique
+        }	
+#form {
+            float: right;
+            margin-right: 100px;
+}
+#formimg {
+            float: right;
+            margin-right: 640px;
+			margin-top: -50px
+}	
